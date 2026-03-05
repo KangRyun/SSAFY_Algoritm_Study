@@ -12,17 +12,15 @@
 
 > **문제 업로드 담당자**는 문제를 선정한 후 아래 표에 내용을 업데이트해주세요.
 
-### [1주차] 2026-03-02 ~ 2026-03-08
+### [1주차] Stack, Queue 2026-03-05 ~ 2026-03-08
 
 | 날짜 | 담당자 | 문제명 | 출처 | 링크 | 상태 |
 | --- | --- | --- | --- | --- | --- |
 | 03/03 (월) | 전원 | **정기 리뷰 및 문제 선정** | - | - | - |
-| 03/04 (화) | 이강륜 | (문제명) | BAEKJOON | [Link](https://www.google.com/search?q=) | ⬜ |
-| 03/05 (수) | 오민근 | (문제명) | SWEA | [Link](https://www.google.com/search?q=) | ⬜ |
-| 03/06 (목) | 황민정 | (문제명) | BAEKJOON | [Link](https://www.google.com/search?q=) | ⬜ |
-| 03/07 (금) | 안윤주 | (문제명) | SWEA | [Link](https://www.google.com/search?q=) | ⬜ |
-| 03/08 (토) | 오민근 | (문제명) | BAEKJOON | [Link](https://www.google.com/search?q=) | ⬜ |
-| 03/09 (일) | 안윤주 | (문제명) | SWEA | [Link](https://www.google.com/search?q=) | ⬜ |
+| 03/05 (목) | 이강륜 | 제로 | BAEKJOON | [Link](https://www.acmicpc.net/problem/10773) | ⬜ |
+| 03/06 (금) | 황민정 | (문제명) | BAEKJOON | [Link](https://www.google.com/search?q=) | ⬜ |
+| 03/07 (토) | 안윤주 | 문자열 폭발 | BAEKJOON | [Link](https://www.acmicpc.net/problem/9935) | ⬜ |
+| 03/08 (일) | 오민근 | (문제명) | BAEKJOON | [Link](https://www.google.com/search?q=) | ⬜ |
 
 ---
 
