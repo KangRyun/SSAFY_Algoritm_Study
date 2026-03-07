@@ -20,7 +20,7 @@
 | 03/05 (목) | 이강륜 | 제로 | BAEKJOON | [Link](https://www.acmicpc.net/problem/10773) | ⬜ |
 | 03/06 (금) | 황민정 | (문제명) | BAEKJOON | [Link](https://www.google.com/search?q=) | ⬜ |
 | 03/07 (토) | 안윤주 | 문자열 폭발 | BAEKJOON | [Link](https://www.acmicpc.net/problem/9935) | ⬜ |
-| 03/08 (일) | 오민근 | (문제명) | BAEKJOON | [Link](https://www.google.com/search?q=) | ⬜ |
+| 03/08 (일) | 오민근 | (오큰수) | BAEKJOON | [Link](https://www.acmicpc.net/problem/17298) | ⬜ |
 
 ---
 
