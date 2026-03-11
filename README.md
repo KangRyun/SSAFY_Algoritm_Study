@@ -32,7 +32,7 @@
 | 03/10 (화) | 이강륜 | 덱 | 덱 | BAEKJOON | [Link](https://www.acmicpc.net/problem/10866) | ⬜ |
 | 03/11 (수) | 이강륜 | 덱 | queuestack | BAEKJOON | [Link](https://www.acmicpc.net/problem/24511) | ⬜ |
 | 03/12 (목) | 이강륜 | 연결리스트 | 풍선 터뜨리기 | BAEKJOON | [Link](https://www.acmicpc.net/problem/2346) | ⬜ |
-| 03/13 (금) | 이강륜 | **연결리스트+A** | 행운의 바퀴 / 미세먼지 안녕! | BAEKJOON | [Link](https://www.acmicpc.net/problem/2840)/[Link](https://www.acmicpc.net/problem/17144) | ⬜ |
+| 03/13 (금) | 이강륜 | **연결리스트+A** | 행운의 바퀴 / 나무높이 | BAEKJOON / SWEA | [Link](https://www.acmicpc.net/problem/2840)/[Link](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4&categoryId=AYFofW8qpXYDFAR4&categoryType=CODE) | ⬜ |
 | 03/14 (토) | 이강륜 | 트리 | 트리순회 | BAEKJOON | [Link](https://www.acmicpc.net/problem/1991) | ⬜ |
 | 03/15 (일) | 이강륜 | 트리 | 트리의 부모 찾기 | BAEKJOON | [Link](https://www.acmicpc.net/problem/11725) | ⬜ |
 
